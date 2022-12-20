@@ -1,5 +1,7 @@
-# vikasganiga05.github.io
-
-![Work In Progress](https://img.shields.io/badge/repo%20status-WIP-yellow)
+# Vikas Ganiga
 
 My personal portfolio website.
+
+### 🚧 Under construction 🚧
+
+Come back soon!
