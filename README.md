@@ -2,6 +2,6 @@
 
 My personal portfolio website.
 
-### 🚧 Under construction 🚧
+### 🚧 Under Construction 🚧
 
 Come back soon!
